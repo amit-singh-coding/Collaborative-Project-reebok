@@ -1,4 +1,4 @@
-# Collaborative Frontend Project
+# Collaborative-Project-Reebok
 
 Welcome to the Collaborative Frontend Project repository! This project aims to familiarize individuals with Git and GitHub by working together on a shared repository.
 
